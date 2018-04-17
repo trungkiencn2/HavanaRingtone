@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Havana Ringtone</string>
+    <string name="set_ring_tone">Set ringtone</string>
+    <string name="set_up_notify">Set up notify</string>
+    <string name="set_up_for_all">Set up for all</string>
+    <string name="set_alarm">Set alarm</string>
+    <string name="download_ringtone">Download ringtone</string>
+
+    <string name="you_set_ringtone">You just set up the ringtone</string>
+    <string name="you_set_alarm">You just set up the alarm</string>
+    <string name="you_set_notify">You just set up the notify</string>
+    <string name="you_set_all">You just set up for all</string>
+</resources>

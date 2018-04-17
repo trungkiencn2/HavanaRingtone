@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Havana Ringtone</string>
+    <string name="set_ring_tone">Cài nhạc chuông</string>
+    <string name="set_up_notify">Thiết lập thông báo</string>
+    <string name="set_up_for_all">Thiết lập cho tất cả</string>
+    <string name="set_alarm">Đặt báo thức</string>
+    <string name="download_ringtone">Tải nhạc chuông</string>
+
+    <string name="you_set_ringtone">Bạn vừa thiết lập nhạc chuông</string>
+    <string name="you_set_alarm">Bạn vừa thiết lập báo thức</string>
+    <string name="you_set_notify">Bạn vừa thiết lập thông báo</string>
+    <string name="you_set_all">Bạn vừa thiết lập cho tất cả</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Havana Ringtone</string>
+    <string name="set_ring_tone">着メロを設定する</string>
+    <string name="set_up_notify">通知を設定する</string>
+    <string name="set_up_for_all">すべての人にセットアップ</string>
+    <string name="set_alarm">目覚ましを設定する</string>
+    <string name="download_ringtone">ダウンロード着メロ</string>
+
+    <string name="you_set_ringtone">あなたは着信音を設定するだけです</string>
+    <string name="you_set_alarm">アラームを設定するだけです</string>
+    <string name="you_set_notify">通知を設定するだけです</string>
+    <string name="you_set_all">あなたはすべてのために設定する</string>
+</resources>

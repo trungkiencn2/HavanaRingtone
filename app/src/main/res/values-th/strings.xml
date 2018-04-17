@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Havana Ringtone</string>
+    <string name="set_ring_tone">ตั้งเสียงกริ่ง</string>
+    <string name="set_up_notify">ตั้งค่าการแจ้งเตือน</string>
+    <string name="set_up_for_all">ตั้งค่าสำหรับทุกคน</string>
+    <string name="set_alarm">ตั้งนาฬิกาปลุก</string>
+    <string name="download_ringtone">ดาวน์โหลดริงโทน</string>
+
+    <string name="you_set_ringtone">คุณเพียงแค่ตั้งค่าริงโทน</string>
+    <string name="you_set_alarm">คุณเพิ่งตั้งปลุก</string>
+    <string name="you_set_notify">คุณเพิ่งตั้งค่าการแจ้งเตือน</string>
+    <string name="you_set_all">คุณเพิ่งตั้งค่าทั้งหมด</string>
+</resources>

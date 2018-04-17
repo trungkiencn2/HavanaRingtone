@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Havana Ringtone</string>
+    <string name="set_ring_tone">Ajustar toque</string>
+    <string name="set_up_notify">Configurar notificar</string>
+    <string name="set_up_for_all">configurado para todos</string>
+    <string name="set_alarm">Programar alarme</string>
+    <string name="download_ringtone">Baixar ringtone</string>
+
+    <string name="you_set_ringtone">Você acabou de configurar o toque</string>
+    <string name="you_set_alarm">Você acabou de configurar o alarme</string>
+    <string name="you_set_notify">Você acabou de configurar a notificação</string>
+    <string name="you_set_all">Você acabou de configurar para todos</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Havana Ringtone</string>
+    <string name="set_ring_tone">Estableix el to de trucada</string>
+    <string name="set_up_notify">Configura notificacions</string>
+    <string name="set_up_for_all">configurat per a tothom</string>
+    <string name="set_alarm">Estableix l&apos;alarma</string>
+    <string name="download_ringtone">Descarrega el to de trucada</string>
+
+    <string name="you_set_ringtone">Acaba de configurar el to de trucada</string>
+    <string name="you_set_alarm">Només heu configurat l`alarma</string>
+    <string name="you_set_notify">Acaba de configurar la notificació</string>
+    <string name="you_set_all">Acabeu de configurar per a tothom</string>
+</resources>
